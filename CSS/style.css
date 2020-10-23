@@ -352,7 +352,7 @@ body {
   position: relative;
 }
 .promo::before {
-  content: "Реклама";
+  content: "Reklama";
   position: absolute;
   right: 0;
   top: 0;
